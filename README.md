@@ -1,7 +1,7 @@
-# Diabetes-Data-Analysis-SQL
-SQL data analysis project demonstrating data cleaning, querying, and analytical problem-solving using SQL.
 
-# Diabetes Data Analysis Using SQL
+
+                                          
+## Diabetes Data Analysis Using SQL
 
 ## Project Overview
 
@@ -102,30 +102,6 @@ The SQL scripts include analyses showing that:
 
 These findings describe patterns in the available dataset and should not be interpreted as clinical diagnoses.
 
-## Repository Structure
-
-```text
-Diabetes-Data-Analysis-SQL/
-│
-├── README.md
-├── Team11_DataDetectives_DataCleaning.sql
-├── Team11_DataDetectives_Category1_Simple.sql
-├── Team11_DataDetectives_Category2_Intermediate.sql
-├── Team11_DataDetectives_Category3_Advanced.sql
-│
-└── Documentation/
-    ├── README.md
-    ├── Team_DataDetectives_FileIndex.docx
-    └── Project documentation files
-```
-
-## How to Explore the Project
-
-1. Review the project overview and dataset descriptions.
-2. Open the data cleaning SQL script to understand the preparation process.
-3. Explore the simple, intermediate, and advanced SQL scripts.
-4. Refer to the Documentation folder for supporting explanations.
-5. To execute the queries, use PostgreSQL with the required source datasets and table structures.
 
 ## Skills Demonstrated
 
@@ -140,15 +116,6 @@ Diabetes-Data-Analysis-SQL/
 - Healthcare data analysis
 - Team collaboration
 
-## Project Contribution
 
-This project was completed as part of a collaborative team effort. The repository showcases the team's SQL scripts and analytical approach.
 
-Individual contributions can be documented separately to distinguish personal work from team deliverables.
-
-## Conclusion
-
-This project demonstrates how SQL can be used to transform raw healthcare and wearable sensor data into structured information for exploratory analysis.
-
-It also highlights the importance of data quality, query efficiency, and clear interpretation when working with large, time-based datasets.
 
